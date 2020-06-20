@@ -12,7 +12,7 @@ git  分布式版本控制器
     pwd 显示完整路径 
     touch 可以创建一个文件
     rm 删除一个文件 
-    mkdir 创建一个文件夹
+    mkdir 创建一个文件夹aa
 
 基础的设置:
     git config --global user.name "deslibai"
